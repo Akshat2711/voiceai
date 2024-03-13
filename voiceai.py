@@ -30,7 +30,7 @@ con=mycon.connect(host="localhost",user="root",password="",database="vassi")
 cur=con.cursor()
 openai.api_key =""
 language = 'en'
-listallowed_c={"akshat":"+919871371357","shreyas":"+917219585006","aditya":"+916299050059","mummy":"+919990610804","papa":"+919990434478"}
+listallowed_c={"akshat":"+919871371357","shreyas":"+917219585006","aditya":"+916299050059"}
 listallowed_gm={"akshat":"akshatsrivastava206@gmail.com","aditya":"jacksparrow20231@gmail.com"}
 #to mute/unmute
 mode="off"
