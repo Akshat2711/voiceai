@@ -24,14 +24,14 @@ import urllib.request
 from PIL import Image
 from smtplib import *
 s_e="cs.pr0j3ct.xii@gmail.com"#sender email
-passwd="omtghmrwfehjgcqb"#pass of sender
+passwd=""#pass of sender
 server=SMTP("smtp.gmail.com",587)
-con=mycon.connect(host="localhost",user="root",password="27ramome76A",database="vassi")
+con=mycon.connect(host="localhost",user="root",password="",database="vassi")
 cur=con.cursor()
-openai.api_key ="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"
+openai.api_key =""
 language = 'en'
 listallowed_c={"akshat":"+919871371357","shreyas":"+917219585006","aditya":"+916299050059","mummy":"+919990610804","papa":"+919990434478"}
-listallowed_gm={"akshat":"akshatsrivastava206@gmail.com","aditya":"jacksparrow20231@gmail.com","mummy":"monikasrivastava2004@gmail.com"}
+listallowed_gm={"akshat":"akshatsrivastava206@gmail.com","aditya":"jacksparrow20231@gmail.com"}
 #to mute/unmute
 mode="off"
 
