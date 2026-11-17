@@ -1,2 +1,6 @@
 /PyWhatKit_DB.txt
 /vassi.py
+/apikey.py
+__pycache__/
+screenshot_*.png
+vaiimg.png

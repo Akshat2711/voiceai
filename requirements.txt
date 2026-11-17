@@ -1,0 +1,9 @@
+google-genai>=2.0
+SpeechRecognition
+PyAudio
+pyttsx3
+win11toast
+pyautogui
+pywhatkit
+mysql-connector-python
+Pillow
